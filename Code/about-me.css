@@ -1,3 +1,19 @@
 body {
     background-color: lightgray;
 }
+
+h1 {
+    color: darkblue;
+}
+
+p {
+    font-size: 16pt;
+}
+
+.interests {
+    color: green;
+}
+
+#about-heading {
+    color: crimson;
+}
